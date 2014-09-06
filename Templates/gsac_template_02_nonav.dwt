@@ -1,0 +1,439 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en">
+
+<!--  Version: Multiflex-3.12 / Layout-1                    -->
+<!--  Date:    January 20, 2008                             -->
+<!--  Design:  www.1234.info                                -->
+<!--  License: Fully open source without restrictions.      -->
+<!--           Please keep footer credits with the words    -->
+<!--           "Design by 1234.info" Thank you!             -->
+
+<head>
+  <meta http-equiv="content-type" content="text/html; charset=utf-8" />
+
+  <!-- <meta name="publisher" content="Your publisher infos here ..." /> -->
+	<meta name="copyright" content="Copyright 2008 UC-Berkeley CBE GSAC" />
+	<meta name="author" content="Design: 1234.info / Modified: UC-Berkeley CBE GSAC" />
+
+<!-- TemplateBeginEditable name="cssSource" -->  
+  <meta name="description" content="Your page description here ..." />
+  <meta name="keywords" content="Your keywords, keywords, keywords, here ..." />
+  <link rel="stylesheet" type="text/css" media="screen,projection,print" href="../css/layout1_setup_template02.css" />
+  <link rel="stylesheet" type="text/css" media="screen,projection,print" href="../css/layout1_text_template02.css" />
+<!-- TemplateEndEditable -->
+<!-- <link rel="icon" type="image/x-icon" href="../img/favicon.ico" /> -->
+ 
+<!-- TemplateBeginEditable name="doctitle" -->
+  <title>Template 2</title>
+<!-- TemplateEndEditable -->
+
+
+<!-- TemplateBeginEditable name="head" -->
+<!-- TemplateEndEditable -->
+</head>
+
+<!-- Global IE fix to avoid layout crash when single word size wider than column width -->
+<!--[if IE]><style type="text/css"> body {word-wrap: break-word;}</style><![endif]-->
+
+<body>
+  <!-- Main Page Container -->
+  <div class="page-container">
+
+    <!-- For alternative headers START PASTE here -->
+
+    <!-- A. HEADER -->      
+    <div class="header">
+      
+      <!-- A.1 HEADER TOP -->
+      <div class="header-top">
+        
+        <!-- Sitelogo and sitename -->
+        <a class="sitelogo" href="../index.html" title="Go to Start page"></a>
+        <div class="sitename">
+          <h1><a href="../index.html" title="Go to Start page">CBE GSAC</a></h1>
+          <h2>University of California, Berkeley</h2>
+        </div>
+    
+        <!-- Navigation Level 0 -->
+        <!--
+		<div class="nav0">
+          <ul>
+            <li><a href="#" title="Pagina home in Italiano"><img src="./img/flag_italy.gif" alt="Image description" /></a></li>
+            <li><a href="#" title="Homepage auf Deutsch"><img src="./img/flag_germany.gif" alt="Image description" /></a></li>
+            <li><a href="#" title="Hemsidan p&aring; svenska"><img src="./img/flag_sweden.gif" alt="Image description" /></a></li>
+          </ul>
+        </div>
+		-->			
+
+      <!-- Navigation Level 1 -->
+        <div class="nav1">
+          <ul>
+            <li><a href="../index.html" title="Go to Start page">Home</a></li>
+            <li><a href="../gsac_info.html" title="Get to know what we do">About</a></li>
+            <li><a href="../gsac_info/contact.html" title="Get in touch with us">Contact</a></li>
+			<!-- <li><a href="../feed.xml" title="RSS feed"><img src="../img/RSS_39x14.gif" alt="RSS feed" width="39" height="14" /></a></li> -->																	
+            <!-- <li><a href="#" title="Get an overview of website">Sitemap</a></li> -->
+          </ul>
+        </div>              
+      </div>
+      
+      <!-- A.2 HEADER MIDDLE -->
+      <div class="header-middle">
+	     
+	    <!-- TemplateBeginEditable name="Banner Image and Message" -->
+	  <!-- Main Image -->  
+        
+        
+		<!-- Site message -->
+		<!--
+        <div class="sitemessage">
+          <h1>Graduate Student Advisory Committee</h1>
+          <h2>Department of Chemical and Biomolecular Engineering<br /> University of California, Berkeley </h2>
+          <h3><a href="#">&rsaquo;&rsaquo;&nbsp;Learn how to volunteer</a></h3>
+        </div> 
+		-->
+		<!-- TemplateEndEditable -->
+		
+      </div>
+      
+      <!-- A.3 HEADER BOTTOM -->
+      <div class="header-bottom">
+      
+        <!-- Navigation Level 2 (Drop-down menus) -->
+        <div class="nav2">
+	
+          <!-- Navigation item -->
+          <ul>
+            <li><a href="../gsac_info.html">GSAC Info<!--[if IE 7]><!--></a><!--<![endif]-->
+              <!--[if lte IE 6]><table><tr><td><![endif]-->
+                <ul>
+                  <li><a href="../gsac_info/meetingminutes.html">Meeting Minutes</a></li>
+                  <li><a href="../gsac_info/arch_news.html">Archived News & Events</a></li>
+                  <li><a href="../gsac_info/colloquium.html">Colloquium Speakers</a></li>
+                  <li><a href="../gsac_info/lab_reps.html">Lab Reps</a></li>
+				  <li><a href="../gsac_info/joining.html">Joining</a></li>
+				  <li><a href="../gsac_info/contact.html">Contact Us</a></li>
+                  <li><a href="../gsac_info/gsl_fund.html">Donate</a></li>                                    
+                </ul>
+              <!--[if lte IE 6]></td></tr></table></a><![endif]-->
+            </li>
+          </ul>
+          
+          <!-- Navigation item -->
+          <ul>
+            <li><a href="../grad_info.html">Grad Student Info<!--[if IE 7]><!--></a><!--<![endif]-->
+              <!--[if lte IE 6]><table><tr><td><![endif]-->
+                <ul>
+				<li><a href="../grad_info/prog_info.html">Program Info</a></li>
+					<li><a href="../grad_info/classes.html">Classes/Registration</a></li>
+				  <li><a href="../grad_info/prelims.html">Prelims</a></li>
+                  <li><a href="../grad_info/quals.html">Quals</a></li>
+				  <li><a href="../grad_info/gsi_info.html">GSI Info</a></li>
+                  <li><a href="../grad_info/pay_benefits.html">Pay and Benefits Info</a></li>
+                  <li><a href="../grad_info/new_students.html">Info for New Students</a></li>                                  
+                </ul>
+              <!--[if lte IE 6]></td></tr></table></a><![endif]-->
+            </li>
+          </ul>
+		   
+		    <!-- Navigation item -->
+          <ul>
+            <li><a href="../campus_city.html">Campus and City<!--[if IE 7]><!--></a><!--<![endif]-->
+              <!--[if lte IE 6]><table><tr><td><![endif]-->
+                <ul>
+					<li><a href="../campus_city/computer_labs.html">Computer Labs</a></li>
+				  <li><a href="../campus_city/printing.html">Printing</a></li>
+                  <li><a href="../campus_city/public_trans.html">Public Transportation</a></li>
+				  <li><a href="../campus_city/parking_permits.html">Street Parking Permits</a></li>
+                  <li><a href="../campus_city/dmv.html">DMV</a></li>
+                  <li><a href="../campus_city/bigbox.html">Shopping</a></li>
+					  <li><a href="../campus_city/safety.html">Safety</a></li>                                
+                </ul>
+              <!--[if lte IE 6]></td></tr></table></a><![endif]-->
+            </li>
+          </ul>
+
+		<!-- Navigation item -->
+		<!--
+          <ul>
+            <li><a href="../recreation.html">Recreation</a>
+                <ul>
+				  <li><a href="../recreation/bars.html">Bars</a></li>
+                  <li><a href="../recreation/wine_country.html">Wine Country</a></li>
+				  <li><a href="../recreation/san_francisco.html">San Francisco</a></li>
+                  <li><a href="../recreation/skiing.html">Skiing</a></li>
+                  <li><a href="../recreation/parks_hiking.html">National Parks/Hiking</a></li>                                  
+                </ul>
+            </li>
+          </ul>
+		  -->
+
+		  <!-- Navigation item -->
+         <ul>
+            <li><a href="../events.html">Events</a></li>
+          </ul>              
+
+           <!-- Navigation item -->
+          <ul>
+            <li><a href="../photos.html">Pictures</a></li>
+          </ul>     
+		 
+		  <!-- Navigation item -->
+		  <!--
+          <ul>
+            <li><a href="http://stage.cchem.berkeley.edu/~gsac/forum/index.php">Forum</a></li>
+          </ul>
+		  -->
+		  
+		   <!-- Navigation item -->
+          <ul>
+            <li><a href="../links.html">Links</a></li>
+          </ul>
+		  
+		     <!-- Navigation item -->
+          <ul>
+            <li><a href="../industry.html">Info for Industry</a></li>
+          </ul>         
+		                       
+		           
+        </div>
+	  </div>
+
+      <!-- A.4 HEADER BREADCRUMBS -->
+
+      <!-- Breadcrumbs -->
+      <div class="header-breadcrumbs">
+	    <!-- TemplateBeginEditable name="Breadcrumbs" -->
+        <ul>
+          <li><a href="../index.html">Home</a></li>
+          <li><a href="#">Webdesign</a></li>
+          <li>Test</li>
+        </ul>
+		<!-- TemplateEndEditable -->
+
+	      <!-- Search form -->                  
+				<div class="searchform">
+					<form action="http://www.cchem.berkeley.edu/gsac/search_results.html" id="cse-search-box">
+  						<div>
+    						<input type="hidden" name="cx" value="006217940292290301605:fw8hvgjsfrk" />
+						    <input type="hidden" name="cof" value="FORID:11" />
+						    <input type="hidden" name="ie" value="UTF-8" />
+						    <input type="text" name="q" size="31" />
+						    <input type="submit" name="sa" value="Search" />
+					   </div>
+					</form>
+					<script type="text/javascript" src="http://www.google.com/coop/cse/brand?form=cse-search-box&lang=en"></script>
+
+        </div>
+      </div>
+    </div>
+
+   <!-- For alternative headers END PASTE here -->
+
+
+
+    <!-- B. MAIN -->
+    <div class="main">
+  
+      <!-- B.1 MAIN CONTENT -->
+      <div class="main-content">
+	  
+	  	<!-- TemplateBeginEditable name="MainContent" -->
+        
+        <!-- Pagetitle -->
+        <h1 class="pagetitle">Template 2</h1>
+
+        <!-- Content unit - One column -->
+        <h1 class="block">1 - Column types</h1>
+        <div class="column1-unit">
+          <h1>Here comes the title</h1>                            
+          <h3>Monday, 20 November 2006 at 20:30 GMT, by <a href="#">SiteAdmin </a></h3>
+          <p>Lorem ipsum dolor sit amet, consectetuer <a href="#">adipiscing elit</a>, sed diam nonummy nibh euismod tincidunt ut laoreet dolore <a href="#">magna aliquam</a> erat volutpat. Ut wisi enim ad minim veniam, quis nostrud exerci tation ullamcorper suscipit lobortis. <a href="#">Read more &raquo;</a></p>
+          <p class="details">| Posted by <a href="#">SiteAdmin </a> | Categories: <a href="#">General</a> | Comments: <a href="#">73</a> |</p>
+          <h1><a href="">Heading h1 with link</a></h1>                            
+          <h3>Heading h3</h3>
+          <p>Lorem ipsum dolor sit amet, consectetuer <a href="#">adipiscing elit</a>, sed diam nonummy nibh euismod tincidunt ut laoreet dolore <a href="#">magna aliquam</a> erat volutpat. Ut wisi enim ad minim veniam, quis nostrud exerci tation ullamcorper suscipit lobortis. <a href="#">Read more &raquo;</a></p>
+          <p class="details">Posting details ...  </p>
+        </div>          
+        <hr class="clear-contentunit" />
+          
+        <!-- Content unit - Two columns -->
+        <div class="column2-unit-left">
+          <h1>Heading h1</h1>                            
+          <h3>Heading h3</h3>
+          <p>Lorem ipsum dolor sit amet, consectetuer <a href="#">adipiscing elit</a>, sed diam nonummy nibh euismod tincidunt ut laoreet dolore <a href="#">magna aliquam</a> erat volutpat. Ut wisi enim ad minim veniam, quis nostrud exerci tation ullamcorper suscipit lobortis nisl ut aliquip.</p>
+          <h1>Heading h1</h1>                            
+          <h3>Heading h3</h3>
+          <p>Lorem ipsum dolor sit amet, consectetuer <a href="#">adipiscing elit</a>, sed diam nonummy nibh euismod tincidunt ut laoreet dolore <a href="#">magna aliquam</a> erat volutpat. Ut wisi enim ad minim veniam.</p>
+        </div>
+        <div class="column2-unit-right">
+          <h1>Heading h1</h1>                            
+          <h3>Heading h3</h3>
+          <p>Lorem ipsum dolor sit amet, consectetuer <a href="#">adipiscing elit</a>, sed diam nonummy nibh euismod.</p>
+          <h1>Heading h1</h1>                            
+          <h3>Heading h3</h3>
+          <p>Lorem ipsum dolor sit amet, consectetuer <a href="#">adipiscing elit</a>, sed diam nonummy nibh euismod.</p>
+          <h1>Heading h1</h1>                            
+          <h3>Heading h3</h3>
+          <p>Lorem ipsum dolor sit amet, consectetuer <a href="#">adipiscing elit</a>, sed diam nonummy nibh euismod.</p>
+        </div>
+        <hr class="clear-contentunit" />
+
+        <!-- Content unit - Three columns -->
+        <div class="column3-unit-left">
+          <h2>Heading h2</h2>   
+          <h3>Heading h3</h3>
+          <p>Lorem ipsum dolor sit amet, consectetuer <a href="#">adipiscing elit</a>, sed diam nonummy nibh euismod. Lorem ipsum dolor sit amet, consectetuer <a href="#">adipiscing elit</a>, sed diam nonummy nibh euismod. Lorem ipsum dolor sit amet, consectetuer <a href="#">adipiscing elit</a>, sed diam nonummy nibh euismod.</p>
+          <h2>Heading h2</h2>                            
+          <h3>Heading h3</h3>
+          <p>Lorem ipsum dolor sit amet, consectetuer <a href="#">adipiscing elit</a>, sed diam nonummy nibh euismod. Lorem ipsum dolor sit amet.</p>
+        </div>
+        <div class="column3-unit-middle">
+          <h2>Heading h2</h2>                            
+          <h3>Heading h3</h3>
+          <ul>
+            <li><a href="#">Resource</a></li>
+            <li><a href="#">Resource</a></li>
+            <li><a href="#">Resource</a></li>
+          </ul>
+          <h2>Heading h2</h2>                            
+          <h3>Heading h3</h3>
+          <ul>
+            <li>Fact 1</li>
+            <li>Fact 2</li>
+          </ul>
+          <h2>Heading h2</h2>                            
+          <h3>Heading h3</h3>
+          <ul>
+            <li>Fact 1</li>
+            <li>Fact 2</li>
+          </ul>
+        </div>
+        <div class="column3-unit-right">
+          <h2>Heading h2</h2>                            
+          <h3>Heading h3</h3>
+          <ul>
+            <li><a href="#">Resource</a></li>
+            <li><a href="#">Resource</a></li>
+            <li><a href="#">Resource</a></li>
+            <li><a href="#">Resource</a></li>
+            <li><a href="#">Resource</a></li>
+            <li><a href="#">Resource</a></li>                  
+            <li><a href="#">Resource</a></li>
+            <li><a href="#">Resource</a></li>                  
+          </ul>
+          <h2>Heading h2</h2>                            
+          <h3>Heading h3</h3>
+          <ul>
+            <li>Fact 1</li>
+            <li>Fact 2</li>
+            <li>Fact 3</li>
+            <li>Fact 4</li>
+          </ul>
+        </div>                        
+        <hr class="clear-contentunit" />
+
+        <!-- Content unit - One column -->
+        <h1 class="block">2 - Text and images</h1>
+        <div class="column1-unit">
+          <h1>Main heading above image</h1>
+          <h1>Heading h1</h1>
+          <h3>Heading h3</h3>                    
+          <p><img src="../img/image.jpg" alt="Image description" title="Image title" />Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat. Ut wisi enim ad minim veniam, quis nostruderci tation ullamcorper suscipit lobortis nisl ut aliquip. orem ipsum dolor sit amet.</p>              
+          <p><img class="center" src="../img/image.jpg" alt="Image description" title="Image title" /></p>
+          <h1>Heading h1</h1>
+          <h3>Heading h3</h3>          
+          <p><img class="right" src="../img/image.jpg" alt="Image description" title="Image title" />Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat. Ut wisi enim ad minim veniam, quis nostruderci tation ullamcorper suscipit lobortis nisl ut aliquip. orem ipsum dolor sit amet.</p>              
+
+          <h1>Main heading beside image</h1>
+          <h1 class="side"><img src="../img/image.jpg" alt="Image description" title="Image title" />Heading h1</h1>
+          <h3 class="side">Heading h3</h3>
+          <p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat. Ut wisi enim ad minim veniam, quis nostruderci tation ullamcorper suscipit lobortis nisl ut aliquip. orem ipsum dolor sit amet.</p>              
+          <p><img class="center" src="../img/image.jpg" alt="Image description" title="Image title" /></p>
+          <h1 class="side"><img class="right" src="../img/image.jpg" alt="Image description" title="Image title" />Heading h1</h1>
+          <h3 class="side">Heading h3</h3>
+          <p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat. Ut wisi enim ad minim veniam, quis nostruderci tation ullamcorper suscipit lobortis nisl ut aliquip. orem ipsum dolor sit amet.</p>              
+        </div>          
+        <hr class="clear-contentunit" />
+          
+        <!-- Content unit - One column -->
+        <h1 class="block">3 - Tables</h1>
+        <div class="column1-unit">
+          <table>
+            <tr><th class="top" scope="col">Heading 1</th><th class="top" scope="col">Heading 2</th><th class="top" scope="col">Heading 3</th><th class="top" scope="col">Heading 4</th></tr>
+            <tr><th scope="row">Category 1</th><td>Data</td><td>Data</td><td>Data</td></tr>
+            <tr><th scope="row">Category 2</th><td>Data</td><td>Data</td><td>Data</td></tr>
+            <tr><th scope="row">Category 3</th><td>Data</td><td>Data</td><td>Data</td></tr>
+          </table>
+          <p class="caption"><strong>Table x.x.</strong> Caption</p>
+        </div>          
+        <hr class="clear-contentunit" />        
+                                             
+        <!-- Content unit - One column -->
+        <h1 class="block">4 - Paragraph text</h1>
+        <div class="column1-unit">
+          <h1>Heading h1</h1>
+          <h3>Heading h3</h3>
+          <h2>Heading h2</h2>
+          <h3>Heading h3</h3>
+          <h4>Heading h4</h4>
+          <h5>Heading h5</h5>                                
+          <h6>Heading h6</h6>
+                
+          <h5>Paragraph text</h5>
+          <p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aliquam at libero. Lorem ipsum dolor sit amet, consectetuer adipiscing. Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aliquam at libero. Lorem ipsum dolor sit amet, consectetuer adipiscing. Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aliquam at libero. Lorem ipsum dolor sit amet, consectetuer adipiscing elit.</p>
+
+          <h5>Detail text line</h5>
+          <p class="details">Read more  ... </p>
+							
+          <h5>Quote</h5>
+          <blockquote>
+            <p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aliquam at libero. Lorem ipsum dolor sit amet, consectetuer adipiscing. Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aliquam at libero. Lorem ipsum dolor sit amet, consectetuer adipiscing. Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aliquam at libero. Lorem ipsum dolor sit amet, consectetuer adipiscing elit.</p>
+          </blockquote>
+
+          <h5>Bullet list</h5>
+          <ul>
+            <li>Bullet 1</li>
+            <li>Bullet 2</li>
+          </ul>
+
+          <h5>Ordered list</h5>
+          <ol>
+            <li>Fact 1</li>
+            <li>Fact 2</li>
+          </ol>
+
+          <h5>Text orientation</h5>
+          <p>Text left.</p>
+          <p class="center">Text center.</p>
+          <p class="right">Text right.</p>
+        </div>
+        <hr class="clear-contentunit" />        
+                              
+        <!-- Content unit - One column -->
+        <h1 class="block">5 - Links</h1>
+        <div class="column1-unit">
+          <h5>Text link</h5>
+          <p>Lorem ipsum dolor sit amet, consectetuer <a href="#">Aliquam at Libero</a>.</p>
+
+          <h5>Image link</h5>
+          <p><a href="#"><img src="../img/image.jpg" alt="Image description" title="Image title" /></a></p>
+          <p><a href="#"><img class="center" src="../img/image.jpg" alt="Image description" title="Image title" /></a></p>
+          <p><a href="#"><img class="right" src="../img/image.jpg" alt="Image description" title="Image title" /></a></p>
+        </div>
+               
+        <!-- TemplateEndEditable -->
+		
+	  </div>
+	</div>
+	
+      
+    <!-- C. FOOTER AREA -->      
+
+    <div class="footer">
+			<p>Copyright &copy; 2008 UC-Berkeley Chemical and Biomolecular Engineering GSAC | All Rights Reserved</p>
+			<p class="credits">Design by <a href="http://1234.info/" title="Designer Homepage">1234.info</a> | Modified by <a href="../index.html" title="GSAC Homepage">UCB CBE GSAC</a> | Contact: cbe.gsac AT berkeley.edu</p>
+		</div>      
+	</div> 
+</body>
+</html>

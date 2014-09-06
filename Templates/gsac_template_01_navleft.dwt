@@ -1,0 +1,337 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en">
+
+
+<head>
+	<meta http-equiv="content-type" content="text/html; charset=utf-8" />
+
+	<!-- <meta name="publisher" content="Your publisher infos here ..." /> -->
+	<meta name="copyright" content="Copyright 2008 UC-Berkeley CBE GSAC" />
+	<meta name="author" content="Design: 1234.info / Modified: UC-Berkeley CBE GSAC" />
+
+	<!-- TemplateBeginEditable name="cssSource" -->  
+		<meta name="description" content="Your page description here ..." />
+		<meta name="keywords" content="Your keywords, keywords, keywords, here ..." />
+		<link rel="stylesheet" type="text/css" media="screen,projection,print" href="../css/layout2_setup_template01.css" />
+	<!-- TemplateEndEditable -->
+
+	<link rel="stylesheet" type="text/css" media="screen,projection,print" href="../css/layout2_text_template01.css" />
+ 	<!--  <link rel="icon" type="image/x-icon" href="./img/favicon.ico" />  -->
+
+	<!-- TemplateBeginEditable name="doctitle" -->
+		<title>GSAC Info</title>
+	<!-- TemplateEndEditable -->
+
+<!-- TemplateBeginEditable name="head" -->
+<!-- TemplateEndEditable -->
+</head>
+
+<!-- Global IE fix to avoid layout crash when single word size wider than column width -->
+<!--[if IE]><style type="text/css"> body {word-wrap: break-word;}</style><![endif]-->
+
+<body>
+	<!-- Main Page Container -->
+	<div class="page-container">
+
+<!-- For alternative headers START PASTE here -->
+
+		<!-- A. HEADER -->      
+	  <div class="header">
+
+			<!-- A.1 HEADER TOP -->
+			<div class="header-top">
+
+				<!-- Sitelogo and sitename -->
+				<a class="sitelogo" href="../index.html" title="Go to Start page"></a>
+					<div class="sitename">
+						<h1><a href="../index.html" title="Go to Start page">CBE GSAC</a></h1>
+						<h2>University of California, Berkeley</h2>
+					</div>
+
+				<!-- Navigation Level 0 -->
+					<!--
+						<div class="nav0">
+							<ul>
+								<li><a href="#" title="Pagina home in Italiano"><img src="./img/flag_italy.gif" alt="Image description" /></a></li>
+								<li><a href="#" title="Homepage auf Deutsch"><img src="./img/flag_germany.gif" alt="Image description" /></a></li>
+								<li><a href="#" title="Hemsidan p&aring; svenska"><img src="./img/flag_sweden.gif" alt="Image description" /></a></li>
+							</ul>
+						</div>
+					-->			
+
+				<!-- Navigation Level 1 -->
+					<div class="nav1">
+						<ul>
+							<li><a href="../index.html" title="Go to Start page">Home</a></li>
+							<li><a href="../gsac_info.html" title="Get to know what we do">About</a></li>
+							<li><a href="../gsac_info/contact.html" title="Get in touch with us">Contact</a></li>
+							<!-- <li><a href="../feed.xml" title="RSS feed"><img src="../img/RSS_39x14.gif" alt="RSS feed" width="39" height="14" /></a></li>	 -->																		
+							<!-- <li><a href="#" title="Get an overview of website">Sitemap</a></li> -->
+						</ul>
+					</div>              
+			</div>
+      
+			<!-- A.2 HEADER MIDDLE -->
+			<div class="header-middle">   
+				
+				<!-- TemplateBeginEditable name="Banner Image and Message" -->
+					<!-- Main Image -->  
+        		
+
+					<!-- Site message -->
+					<!--
+						<div class="sitemessage">
+							<h1>Graduate Student Advisory Committee</h1>
+							<h2>Department of Chemical and Biomolecular Engineering<br /> University of California, Berkeley </h2>
+							<h3><a href="#">&rsaquo;&rsaquo;&nbsp;Learn how to volunteer</a></h3>
+						</div> 
+					-->    
+				<!-- TemplateEndEditable -->
+			</div>
+      
+			<!-- A.3 HEADER BOTTOM -->
+			<div class="header-bottom">
+
+				<!-- Navigation Level 2 (Drop-down menus) -->
+				<div class="nav2">
+
+					<!-- Navigation item -->
+					<ul>
+						<li><a href="../gsac_info.html">GSAC Info<!--[if IE 7]><!--></a><!--<![endif]-->
+						<!--[if lte IE 6]><table><tr><td><![endif]-->
+							<ul>
+								<li><a href="../gsac_info/meetingminutes.html">Meeting Minutes</a></li>
+                                <li><a href="../gsac_info/arch_news.html">Archived News & Events</a></li>
+								<li><a href="../gsac_info/colloquium.html">Colloquium Speakers</a></li>
+								<li><a href="../gsac_info/lab_reps.html">Lab Reps</a></li>
+								<li><a href="../gsac_info/joining.html">Joining</a></li>
+								<li><a href="../gsac_info/contact.html">Contact Us</a></li>
+                                <li><a href="../gsac_info/gsl_fund.html">Donate</a></li>                                 
+						  </ul>
+						<!--[if lte IE 6]></td></tr></table></a><![endif]-->
+						</li>
+					</ul>
+
+					<!-- Navigation item -->
+					<ul>
+						<li><a href="../grad_info.html">Grad Student Info<!--[if IE 7]><!--></a><!--<![endif]-->
+						<!--[if lte IE 6]><table><tr><td><![endif]-->
+							<ul>
+								<li><a href="../grad_info/prog_info.html">Program Info</a></li>
+								<li><a href="../grad_info/classes.html">Classes/Registration</a></li>
+								<li><a href="../grad_info/prelims.html">Prelims</a></li>
+								<li><a href="../grad_info/quals.html">Quals</a></li>
+								<li><a href="../grad_info/gsi_info.html">GSI Info</a></li>
+								<li><a href="../grad_info/pay_benefits.html">Pay and Benefits Info</a></li>
+								<li><a href="../grad_info/new_students.html">Info for New Students</a></li>                                  
+							</ul>
+						<!--[if lte IE 6]></td></tr></table></a><![endif]-->
+						</li>
+					</ul>
+
+					<!-- Navigation item -->
+					<ul>
+						<li><a href="../campus_city.html">Campus and City<!--[if IE 7]><!--></a><!--<![endif]-->
+						<!--[if lte IE 6]><table><tr><td><![endif]-->
+							<ul>
+								<li><a href="../campus_city/computer_labs.html">Computer Labs</a></li>
+								<li><a href="../campus_city/printing.html">Printing</a></li>
+								<li><a href="../campus_city/public_trans.html">Public Transportation</a></li>
+								<li><a href="../campus_city/parking_permits.html">Street Parking Permits</a></li>
+								<li><a href="../campus_city/dmv.html">DMV</a></li>
+								<li><a href="../campus_city/bigbox.html">Shopping</a></li>
+								<li><a href="../campus_city/safety.html">Safety</a></li>                                
+							</ul>
+						<!--[if lte IE 6]></td></tr></table></a><![endif]-->
+						</li>
+					</ul>
+
+					<!-- Navigation item -->
+					<!--
+					<ul>
+						<li><a href="../recreation.html">Recreation</a>
+						
+							<ul>
+							
+								<li><a href="../recreation/bars.html">Bars</a></li>
+								<li><a href="../recreation/wine_country.html">Wine Country</a></li>
+								<li><a href="../recreation/san_francisco.html">San Francisco</a></li>
+								<li><a href="../recreation/skiing.html">Skiing</a></li>
+								<li><a href="../recreation/parks_hiking.html">National Parks/Hiking</a></li>                                  
+							</ul>
+				
+						</li>
+					</ul>
+					-->
+					<!-- Navigation item -->
+					<ul>
+						<li><a href="../events.html">Events</a></li>
+					</ul>              
+
+					<!-- Navigation item -->
+					<ul>
+						<li><a href="../photos.html">Pictures</a></li>
+					</ul>    
+					
+					<!-- Navigation item -->
+					<!--
+          			<ul>
+            		<li><a href="http://stage.cchem.berkeley.edu/~gsac/forum/index.php">Forum</a></li>
+          			</ul> 
+					-->
+
+					<!-- Navigation item -->
+					<ul>
+						<li><a href="../links.html">Links</a></li>
+					</ul> 
+                    
+					 <!-- Navigation item -->
+         			 <ul>
+         			   <li><a href="../industry.html">Info for Industry</a></li>
+       			   </ul>         
+		           
+					            
+				</div>
+			</div>
+
+
+			<!-- A.4 HEADER BREADCRUMBS -->
+
+			<!-- Breadcrumbs -->
+			<div class="header-breadcrumbs">
+				<!-- TemplateBeginEditable name="Breadcrumbs" -->
+					<ul>
+						<li><a href="../index.html">Home</a></li>
+						<li><a href="#">Webdesign</a></li>
+						<li>Test</li>
+					</ul>
+				<!-- TemplateEndEditable -->
+
+
+				<!-- Search form -->                  
+				<div class="searchform">
+					<form action="http://www.cchem.berkeley.edu/gsac/search_results.html" id="cse-search-box">
+ 						 <div>
+    						<input type="hidden" name="cx" value="006217940292290301605:fw8hvgjsfrk" />
+    						<input type="hidden" name="cof" value="FORID:11" />
+    						<input type="hidden" name="ie" value="UTF-8" />
+    						<input type="text" name="q" size="31" />
+    						<input type="submit" name="sa" value="Search" />
+  						</div>
+					</form>
+					<script type="text/javascript" src="http://www.google.com/coop/cse/brand?form=cse-search-box&lang=en"></script>
+				</div>
+		    </div>
+		</div>
+
+<!-- For alternative headers END PASTE here -->
+
+		<!-- B. MAIN -->
+		<div class="main">
+
+			<!-- B.1 MAIN NAVIGATION -->
+			
+			<div class="main-navigation">
+				<!-- TemplateBeginEditable name="NavigationBar" -->
+					<!-- Navigation Level 3 -->
+					<div class="round-border-topright"></div>
+					<h1 class="first">Navigation</h1>
+					<!-- Navigation with grid style -->
+					<dl class="nav3-grid">
+						<dt><a href="#">Navlink 11</a></dt>
+						<dt><a href="#">Navlink 12</a></dt>
+						<dd><a href="#">Navlink 121</a></dd>
+						<dd><a href="#">Navlink 122</a></dd>
+						<dd><a href="#">Navlink 123</a></dd>
+						<dt><a href="#">Navlink 13</a></dt>
+						<dt><a href="#">Navlink 14</a></dt>
+						<dt><a href="#">Navlink 15</a></dt>
+					</dl>
+				<!-- TemplateEndEditable -->
+			</div>
+			
+
+			<!-- B.2 MAIN CONTENT -->
+
+			<div class="main-content">
+			<!-- TemplateBeginEditable name="MainContent" -->
+			
+				<!-- Pagetitle -->
+				<h1 class="pagetitle">GSAC Information</h1>
+				<!-- Content unit - One column -->
+				<h1 class="block">Example</h1>
+				<div class="column1-unit">
+					<p>Welcome to the website of the the Graduate Student Advisory Committee (GSAC) of the Department of Chemical and Biomolecular Engineering at University of California, Berkeley. Our overall goal is to provide input and assistance with departmental functions and policies that affect the graduate student body. Some of our activities include:</p>
+				
+					<ul>
+						<li>Compile data on housing costs for students and lobbying for pay raises</li>
+						<li>Help recruiting new graduate students</li>
+						<li>Organize departmental graduate student instructor (GSI) training</li>
+						<li>Organize department picnics, sports events</li>
+						<li>Invite special GSAC colloquium speaker</li>
+						<li>Provide input on curriculum changes</li>
+					</ul>
+				
+					<p>There are other projects that we can begin, but we are limited by our size. GSAC is a volunteers organization, so if you are interested in helping out, just send an email to gsac@ocf.berkeley.edu and you will be added to our email list! We meet about once a month for an hour to an hour and a half. If you have any ideas on things we can do to make graduate student life better, please let us know. We will do our best to implement them.</p>
+				
+				</div>
+			
+				<!-- Divider Line -->
+				<hr class="clear-contentunit" />
+				
+				
+				<!-- Content unit - One column -->
+				<h1 class="block">Paragraph text</h1>
+				<div class="column1-unit">
+					<h1>Heading h1</h1>
+					<h3>Heading h3</h3>
+					<h2>Heading h2</h2>
+					<h3>Heading h3</h3>
+					<h4>Heading h4</h4>
+					<h5>Heading h5</h5>
+					<h6>Heading h6</h6>
+					<h5>Paragraph text</h5>
+					
+					<p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aliquam at libero. Lorem ipsum dolor sit amet, consectetuer adipiscing. Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aliquam at libero. Lorem ipsum dolor sit amet, consectetuer adipiscing. Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aliquam at libero. Lorem ipsum dolor sit amet, consectetuer adipiscing elit.</p>
+					
+					<h5>Detail text line</h5>
+					
+					<p class="details">Read more  ... </p>
+					<h5>Quote</h5>
+					<blockquote>
+						<p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aliquam at libero. Lorem ipsum dolor sit amet, consectetuer adipiscing. Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aliquam at libero. Lorem ipsum dolor sit amet, consectetuer adipiscing. Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aliquam at libero. Lorem ipsum dolor sit amet, consectetuer adipiscing elit.</p>
+					</blockquote>
+					
+					<h5>Bullet list</h5>
+					<ul>
+						<li>Bullet 1</li>
+						<li>Bullet 2</li>
+					</ul>
+					<h5>Ordered list</h5>
+					<ol>
+						<li>Fact 1</li>
+						<li>Fact 2</li>
+					</ol>
+					<h5>Text orientation</h5>
+					<p>Text left.</p>
+					<p class="center">Text center.</p>
+					<p class="right">Text right.</p>
+				</div>
+				
+			<!-- TemplateEndEditable -->
+			</div>
+		</div>
+
+
+		<!-- C. FOOTER AREA -->      
+
+		<div class="footer">
+			<p>Copyright &copy; 2008 UC-Berkeley Chemical and Biomolecular Engineering GSAC | All Rights Reserved</p>
+			<p class="credits">Design by <a href="http://1234.info/" title="Designer Homepage">1234.info</a> | Modified by <a href="../index.html" title="GSAC Homepage">UCB CBE GSAC</a> | Contact: cbe.gsac AT berkeley.edu</p>
+		</div>      
+	</div> 
+</body>
+</html>
+
+
+

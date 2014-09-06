@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>GSAC Website Feed</title>
+		<description>Website feed of updates and information from the UC-Berkeley Chemical Engineering Graduate Student Advisory Committee website.</description>
+		<link>http://www.cchem.berkeley.edu/gsac/</link>
+		<language>en-us</language>
+		<atom:link href="http://www.cchem.berkeley.edu/gsac/feed.xml" rel="self" type="application/rss+xml" />
+			
+			
+			<item>
+				<title>Meeting Minutes Posted</title>
+				<description>Minutes from today's GSAC student meeting have been uploaded to the GSAC website</description>
+				<link>http://www.cchem.berkeley.edu/gsac/gsac_info/meetings/2009/20091214meetingStudents.html</link>
+				<guid>http://www.cchem.berkeley.edu/gsac/gsac_info/meetings/2009/20091214meetingStudents.html</guid>
+				<pubDate>Mon, 14 Dec 2009 12:00:00 PST</pubDate>
+			</item>
+			
+			<item>
+				<title>Meeting Minutes Posted</title>
+				<description>Minutes from today's GSAC meeting have been uploaded to the GSAC website</description>
+				<link>http://www.cchem.berkeley.edu/gsac/gsac_info/meetings/2009/20091201meeting.html</link>
+				<guid>http://www.cchem.berkeley.edu/gsac/gsac_info/meetings/2009/20091201meeting.html</guid>
+				<pubDate>Tues, 1 Oct 2009 12:00:00 PST</pubDate>
+			</item>
+			
+			<item>
+				<title>Meeting Minutes Posted</title>
+				<description>Minutes from today's GSAC meeting have been uploaded to the GSAC website</description>
+				<link>http://www.cchem.berkeley.edu/gsac/gsac_info/meetings/2009/20091120meetingStudents.html</link>
+				<guid>http://www.cchem.berkeley.edu/gsac/gsac_info/meetings/2009/20091120meetingStudents.html</guid>
+				<pubDate>Fri, 20 Nov 2009 14:00:00 PST</pubDate>
+			</item>
+			
+			<item>
+				<title>Chemical Engineering Department 2009 Holiday Party Announced</title>
+				<description>Save the date!  On Friday, December 4th, GSAC and the ChemE Department would like to invite you and your family to a holiday party in 775 Tan Hall at 5 pm. We will have lots of heavy hors d'oeuvres and drinks. We ask that you bring your favorite holiday dessert to help us celebrate the season. Also, a $5 donation is greatly appreciated to cover the beverages! Rocio will have a jar on her desk to collect donations before the party. This event is sponsored by the Graduate Assembly. </description>
+				<link>http://www.cchem.berkeley.edu/gsac/index.html</link>
+				<guid isPermaLink="false">2009 holiday party announcement</guid>
+				<pubDate>Tues, 17 Nov 2009 12:00:00 PST</pubDate>
+			</item>
+			
+			<item>
+				<title>Meeting Minutes Posted</title>
+				<description>Minutes from today's GSAC meeting have been uploaded to the GSAC website</description>
+				<link>http://www.cchem.berkeley.edu/gsac/gsac_info/meetings/2009/20091103meeting.html</link>
+				<guid>http://www.cchem.berkeley.edu/gsac/gsac_info/meetings/2009/20091103meeting.html</guid>
+				<pubDate>Tues, 3 Nov 2009 12:00:00 PST</pubDate>
+			</item>
+		
+			<item>
+				<title>Pictures from Dept. Picnic Now Posted</title>
+				<description>Photos from the annual chemical engineering department picnic have now been posted to the GSAC website.</description>
+				<link>http://www.cchem.berkeley.edu/gsac/pics/picnic09.html</link>
+				<guid>http://www.cchem.berkeley.edu/gsac/pics/picnic09.html</guid>
+				<pubDate>Sun, 25 Oct 2009 15:00:00 PST</pubDate>
+			</item>
+		
+			<item>
+				<title>Meeting Minutes Posted</title>
+				<description>Minutes from today's GSAC student meeting have been uploaded to the GSAC website</description>
+				<link>http://www.cchem.berkeley.edu/gsac/gsac_info/meetings/2009/20091016meetingStudents.html</link>
+				<guid>http://www.cchem.berkeley.edu/gsac/gsac_info/meetings/2009/20091016meetingStudents.html</guid>
+				<pubDate>Fri, 16 Oct 2009 13:00:00 PST</pubDate>
+			</item>
+		
+			<item>
+				<title>ChemE Graduate Fund Created in College</title>
+				<description>A new fund dedicated to ChemE graduate student life has been created in the College of Chemistry. This fund will be available for graduate student socials, student invited speakers, and other activities to improve the atmosphere for graduate students.</description>
+				<link>http://www.cchem.berkeley.edu/gsac/index.html</link>
+				<guid isPermaLink="false">grad student life fund initial announcement</guid>
+				<pubDate>Fri, 16 Oct 2009 11:00:00 PST</pubDate>
+			</item>
+	
+	</channel>
+</rss>
