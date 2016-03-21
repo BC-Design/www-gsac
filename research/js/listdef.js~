@@ -13,7 +13,7 @@ $('#search-reset').click(function() {
 
 $('#filter-freshman').click(function() {
   contentList.filter(function(item) {
-    if (item.values().applicants.indexOf("Freshman") > -1) {
+    if (item.values().format.indexOf("Freshman") > -1) {
       return true;
     } else {
       return false;
@@ -24,7 +24,7 @@ $('#filter-freshman').click(function() {
 
 $('#filter-sophomore').click(function() {
   contentList.filter(function(item) {
-    if (item.values().applicants.indexOf("Sophomore") > -1) {
+    if (item.values().format.indexOf("Sophomore") > -1) {
       return true;
     } else {
       return false;
@@ -35,7 +35,7 @@ $('#filter-sophomore').click(function() {
 
 $('#filter-junior').click(function() {
   contentList.filter(function(item) {
-    if (item.values().applicants.indexOf("Junior") > -1) {
+    if (item.values().format.indexOf("Junior") > -1) {
       return true;
     } else {
       return false;
@@ -46,7 +46,7 @@ $('#filter-junior').click(function() {
 
 $('#filter-senior').click(function() {
   contentList.filter(function(item) {
-    if (item.values().applicants.indexOf("Senior") > -1) {
+    if (item.values().format.indexOf("Senior") > -1) {
       return true;
     } else {
       return false;
