@@ -78,7 +78,7 @@ li.data { border: 2px solid black; margin: 10px; padding: 4px 20px 0px 4px; bord
 h2 { margin: 10px; }
 h3,h4 { margin: 0px; font-family: Verdana, sans-serif; }
 h3 { color:#335589; }
-.description { font-style: italic; }
+.description { font-size:0.85em; }
 .search { font-size:1.5em; width:550px; }
 
 button {
@@ -100,5 +100,4 @@ button {
 	color:black;
 	text-shadow:none;
   border:1px solid black;
-	}
-
+}
